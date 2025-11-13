@@ -4,6 +4,7 @@ Hello! My name is Noah McDonald, I am a high school student with a passion for m
 I have always enjoyed the abstract logic of maths and such I now like to explore topics such as number theory and real analysis.
 Sometimes I can't visualize these concepts in my head so I write programs to help me understand how thing work.
 In computer science I enjoy algorithms and data structures.
+[Link Text](https://noah-mcdonald.github.io/)
 <!--
 **Noah-McDonald/noah-mcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
